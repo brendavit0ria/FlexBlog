@@ -7,7 +7,7 @@ O projeto é a criação de um site com uma única página: FlexBlog. Com ele fu
 <br>
 
 <p align="center">
-  <img alt="projeto flexblog" src=".github/preview.png"
+  <img alt="projeto flexblog" src=".github/preview.png">
 
 ## Tecnologias
 
