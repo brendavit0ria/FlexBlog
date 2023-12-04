@@ -7,8 +7,7 @@ O projeto é a criação de um site com uma única página: FlexBlog. Com ele fu
 <br>
 
 <p align="center">
-  <img alt="projeto flexblog" src=".github/preview.png" width="320" height="205">
-</p>
+  <img alt="projeto flexblog" src=".github/preview.png"
 
 ## Tecnologias
 
@@ -16,7 +15,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
 - CSS
-- CSS FlexBox
+- CSS Flexbox
 
 
 ## Projeto
